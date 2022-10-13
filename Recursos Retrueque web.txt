@@ -1,0 +1,33 @@
+Hola chicos/as.
+
+Les dejo algunos recursos a mano para hacer la pagina:
+
+1)Fuentes
+https://fonts.google.com/
+font-family: 'Montserrat', sans-serif; 
+(regular 400 y de 700 que es mas gruesa)
+Los tamaños varían segun la posición dentro de la pagina pero aprox van de 15/20px a 80/90px
+
+2)Colores
+Use colores básicos, desde el blanco, pasando por el beige hasta marrones y llegando finalmente al negro.
+No quiero pasar ningun color fijo, ya que va a depender del gusto del grupo en general y lo podemos ir viendo sobre la marcha  
+
+2) Iconos
+https://fontawesome.com/
+(se hacen una cuenta y ya se pueden usar los iconos como etiquetas dentro del html)
+
+3) Bootstrap 
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+(Yo lo use para cards, pero se puede hacer todo con esto y relativamente facil)
+
+4)Imagenes
+https://unsplash.com/es
+Tremenda pagina para sacar imagenes de buena calidad (hay muchas pag de esto, pero les paso la que yo use)
+
+5) Animaciones
+https://michalsnik.github.io/aos/
+(De allí saqué las animaciones para la pag)
+
+6)https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Para ayudar a hacer las cajas con flexbox. Buena guía.
+La pagina es buenisima tambien para aprender sobre css. 
